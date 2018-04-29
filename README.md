@@ -1,2 +1,2 @@
 # MafiaRPG
-An indie game I'm developing with my friends.
+A Working title for RPG about the Mafia
